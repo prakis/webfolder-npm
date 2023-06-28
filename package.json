@@ -1,0 +1,22 @@
+{
+  "name": "webfolder",
+  "version": "1.0.0",
+  "description": "webfolder for node apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakis/webfolder-npm.git"
+  },
+  "author": "Kishore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://webfolder.org"
+  },
+  "homepage": "https://github.com/prakis/webfolder-npm#readme",
+  "keywords": [
+    "WebFolder"
+  ]  
+}
